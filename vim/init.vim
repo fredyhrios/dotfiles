@@ -1,1 +1,1 @@
-/Users/jeckhart/.vimrc
+/Users/fredyrios/.vimrc
