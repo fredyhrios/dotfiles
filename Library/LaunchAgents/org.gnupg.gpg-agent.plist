@@ -7,7 +7,7 @@
     <string>org.gnupg.gpg-agent</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/jeckhart/.bin/start-gpg-agent.sh</string>
+      <string>/Users/fredyrios/.bin/start-gpg-agent.sh</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
